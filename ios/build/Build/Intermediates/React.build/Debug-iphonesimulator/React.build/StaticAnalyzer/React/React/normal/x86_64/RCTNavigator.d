@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/lemon/project/Rproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/lemon/project/Rproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/lemon/project/Rproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTView.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/lemon/project/Rproject/node_modules/react-native/React/Views/UIView+React.h

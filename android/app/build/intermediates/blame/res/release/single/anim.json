@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/res/anim/fade_in.xml"
+    }
+]

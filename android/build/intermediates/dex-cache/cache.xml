@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/561a77ebf5975bc7d6903bd6ceee9122e570e41f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_9a24514852f1ed5c88f4da2563216de4245732b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_5b1713bdd8b79f2a75972996202edb473151b4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_7b614e7030dcf1361be9a9380d60b9433d71289f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_149e3a48dacd8550e5918c9f5af0c1e6bf01fec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/fc85e02fc26d57f648fc836a9459f4458d4f595e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_d8530baa823a068c52931be4cbb297f4a0dc46ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3e26e83fb799213279af5706c7c26cd2d456e831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_226fff580981cc3cdb563f2f34ee3823b39960d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/8111fa448f278f1802d6099e2ffb398fc5f955d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_a786aa294a8a8d43bffbb376743ccf128fb27591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_95cb53225892e11466ab50b4796afe7254f7a952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/d8d7a43222a77eaf79eacfd8a8e1a4dc1f71a18f/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d3329e8209ee7f43b6e5555b2f9561a9f73b15e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/4a1541c5c34d48a152aaceb0f48dbb9bfccb3058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_e39e4266a15accdaa6f6271983746946dc0febdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/de6db7468c92f32b99fb6cf528d4e4baf1aa2dd7/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_47660d2110dc867eac22bea9a3b855b589a787ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/9d5d9e1f31bbf48ab5038ff2f9ddc9f65b8be0d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_909ec13672646503024cc004c493c8614e0472ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_f325cfa99f7488926093f19c994bca7d812391f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/ab347f54910a700a635ba026d47f4f4d31762bb5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_39e8ba3f62c7aface262c503e8da5d9d457fb7bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_643fa1ac43b9590ed6ff53af2a77963a2636cc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_26d9a810c89a4ab29c7721891b2aa90d5417728c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_149e3a48dacd8550e5918c9f5af0c1e6bf01fec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_7b614e7030dcf1361be9a9380d60b9433d71289f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/9d5d9e1f31bbf48ab5038ff2f9ddc9f65b8be0d2/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a0abf2bc2887a539fa57fb2f3b5013851db27292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/061a6b7203e1925310d1ec81a4360615761d6e8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_5a42ba03ba871f39d42d0823155b4dfed1b61e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/d8d7a43222a77eaf79eacfd8a8e1a4dc1f71a18f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_0e2c5d7410270a0b13c5c14d77e6b56384c1175e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/44bec31ca7e7e1328c0a2d685fc7de3156097a0a/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_63665d94384a4302de2b9abcb10b70fb376d0046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/f2c50546be3c9833b322fc4e3e8801cd6ce0a83f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_7fc1554d0cc94ecc96d549ebc9d0d1f9ae871ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/fdf54f1a8d563c980d3a38a295695925bd98fe53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_23d73dfffe1d9d9454ac7818fca53473ade3f3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_a7551c05ae05c9529e4f7a299d7bce8d0fa27958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_95cb53225892e11466ab50b4796afe7254f7a952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3e26e83fb799213279af5706c7c26cd2d456e831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_5b1713bdd8b79f2a75972996202edb473151b4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/44bec31ca7e7e1328c0a2d685fc7de3156097a0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_9669c9097428eb57bdca61cfa9f8bdb6e1771f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/1488b3dbda90d49e585b83d2f99e66c33b775a46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_1fcfafb401f88ea4960bb85a3f368a54a025a30d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_643fa1ac43b9590ed6ff53af2a77963a2636cc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_551650a24dcea28b333227e038a3fdd1bbf66c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/910f4e087baf6740eada6156755c73a757b0878e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_a3dcd57211a8cf8c08092f32639ddbd43f581af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/ab347f54910a700a635ba026d47f4f4d31762bb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_012fbbb06bcc8659fe8dd0a95fd8b2c0f61cc790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/f40b73b08eb6abbfe68823306ee6727ff7c36594/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_66b81b68f8cd116bfd36d9b7197d40931ac45fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/eb882ebbc44e13a523453b953ca25bceb83f50a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_6017cabff0c26c684f2e987833522a0984a4adb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/061a6b7203e1925310d1ec81a4360615761d6e8e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f030210343da7fb662cf9e14194b3a3f14037fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/project/Rproject/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_94ece3a934465d4b7b11c7613cdf4f10c8d65aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_26d9a810c89a4ab29c7721891b2aa90d5417728c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_f325cfa99f7488926093f19c994bca7d812391f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lemon/.android/build-cache/767e213c73033a152ccdfe681e458a6b4cc470a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/lemon/project/Rproject/android/app/build/intermediates/pre-dexed/debug/classes_443b9e74808bd8e238e6fd363d9b85449ddea6c5.jar" />
+    </item>
+
+</items>

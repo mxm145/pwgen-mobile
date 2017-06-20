@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lemon/project/Rproject/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/lemon/.android/build-cache/7d58cfe0dd48389639cd6d3952f9341b8bd44377/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
